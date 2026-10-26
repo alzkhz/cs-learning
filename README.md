@@ -50,18 +50,18 @@ I'm still learning, so this repository is a work in progress. The goal is to bui
 csharp-learning/
 ├── README.md
 ├── 01-basics/
-│   ├── hello-world.cs
+│   ├── hello_world.cs
 │   ├── variables.cs
-│   ├── data-types.cs
+│   ├── data_types.cs
 │   └── operators.cs
 ├── 02-input-output/
-│   └── user-input.cs
+│   └── user_input.cs
 ├── 03-conditionals/
-│   ├── if-else.cs
+│   ├── if_else.cs
 │   └── switch.cs
 ├── 04-loops/
-│   ├── for-loop.cs
-│   └── while-loop.cs
+│   ├── for_loop.cs
+│   └── while_loop.cs
 ├── 05-arrays/
 │   └── arrays.cs
 └── exercises/
