@@ -64,8 +64,8 @@ csharp-learning/
 │   └── while_loop.cs
 ├── 05-arrays/
 │   └── arrays.cs
-└── exercises/
-    └── practice-01.cs
+└── case-study/
+    └── case_01.cs
 ```
 
 *The structure above is a suggested layout. Files and folders will be added as the learning process continues.*
